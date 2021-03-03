@@ -1,0 +1,48 @@
+
+
+#border1{
+    margin: 1.5rem;
+border: 9px dotted red;
+width: 300px;
+height: 80px;
+
+text-align: center;
+
+}
+#border2{
+    margin: 1.5rem;
+    border: 9px dashed blue;
+    width: 300px;
+    height: 80px;   
+    text-align: center;
+}
+#border3{
+   margin: 1.5rem;
+    border: 9px double green;
+    width: 300px;
+    height: 80px;
+    text-align: center;
+}
+
+#border4{
+    margin: 1.5rem;
+    border:9px outset purple;
+    width: 300px;
+    height: 80px;
+    text-align: center;
+    
+}
+#border5{
+    margin: 1.5rem;
+    border:9px inset yellow;
+    width: 300px;
+    height: 80px;
+    text-align: center;
+}
+
+
+
+
+footer{
+    text-align: center;
+}
